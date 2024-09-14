@@ -37,7 +37,7 @@ atributos y métodos adecuados para cada una.
 Documenta tu código de manera adecuada, incluyendo comentarios
 descriptivos para explicar la funcionalidad de cada clase y método.
 
-# Dinamica de la actividad
+# Dinámica de la actividad
 
 Su principal misión es intentar resolver el anterior enunciado implementando el paradigma de la programación orientada a objetos vista en clase, de igual forma en este repositorio encontraras los siguiente:  
 
